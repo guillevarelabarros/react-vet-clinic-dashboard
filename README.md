@@ -104,7 +104,7 @@ notifications and confirmation modals
 
 - Creating data-driven visualizations
 
-- Applying form validation and user feedback
+- Applying form validation and user feedback.
 
 ## 🧑‍💻 Author
 
