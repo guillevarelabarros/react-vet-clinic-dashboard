@@ -111,7 +111,7 @@ notifications and confirmation modals
 Guille Varela Barros Frontend & Mobile Developer | React | React Native |
 TypeScript
 
-- 🔗 LinkedIn: www.linkedin.com/in/guillevarelabarros
+- 🔗 LinkedIn: https://www.linkedin.com/in/guillevarelabarros
 
 - 💻 GitHub: https://github.com/guillevarelabarros
 
