@@ -109,7 +109,17 @@ notifications and confirmation modals
 ## 🧑‍💻 Author
 
 Guille Varela Barros Frontend & Mobile Developer | React | React Native |
-TypeScript 📎 LinkedIn | GitHub
+TypeScript
+
+- 🔗 LinkedIn: www.linkedin.com/in/guillevarelabarros
+
+- 💻 GitHub: https://github.com/guillevarelabarros
+
+## 🔗 Useful Links
+
+📹 Demo: https://vet-clinic-dashboard.netlify.app/
+
+💻 Repository: https://github.com/guillevarelabarros/react-vet-clinic-dashboard
 
 ## License: MIT
 
